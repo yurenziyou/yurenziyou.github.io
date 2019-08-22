@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+- [x] This is a complete item
+- [ ] This is an incomplete item
+- [ ] This is an incomplete item
+- [x] This is an incomplete item
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
